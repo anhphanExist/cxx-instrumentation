@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/anh/7E183B63183B199B/STUDY/SELF/CAREERS/LABINTERN/lab/anhphancode/cxx-sample-calculator/Calculator.cpp
+Calculator.h
+/media/anh/7E183B63183B199B/STUDY/SELF/CAREERS/LABINTERN/lab/anhphancode/cxx-sample-calculator/Calculator.h
+
+/media/anh/7E183B63183B199B/STUDY/SELF/CAREERS/LABINTERN/lab/anhphancode/cxx-sample-calculator/Calculator.h
+iostream
+-
+
+/media/anh/7E183B63183B199B/STUDY/SELF/CAREERS/LABINTERN/lab/anhphancode/cxx-sample-calculator/Menu.cpp
+Menu.h
+/media/anh/7E183B63183B199B/STUDY/SELF/CAREERS/LABINTERN/lab/anhphancode/cxx-sample-calculator/Menu.h
+
+/media/anh/7E183B63183B199B/STUDY/SELF/CAREERS/LABINTERN/lab/anhphancode/cxx-sample-calculator/Menu.h
+iostream
+-
+Calculator.h
+/media/anh/7E183B63183B199B/STUDY/SELF/CAREERS/LABINTERN/lab/anhphancode/cxx-sample-calculator/Calculator.h
+
+/media/anh/7E183B63183B199B/STUDY/SELF/CAREERS/LABINTERN/lab/anhphancode/cxx-sample-calculator/main.cpp
+iostream
+-
+dlfcn.h
+-
+cxxabi.h
+-
+cstdio
+-
+Menu.h
+/media/anh/7E183B63183B199B/STUDY/SELF/CAREERS/LABINTERN/lab/anhphancode/cxx-sample-calculator/Menu.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -finstrument-functions -rdynamic   CMakeFiles/cxx_sample_calculator.dir/Calculator.cpp.o CMakeFiles/cxx_sample_calculator.dir/main.cpp.o CMakeFiles/cxx_sample_calculator.dir/Menu.cpp.o  -o cxx_sample_calculator  -ldl 

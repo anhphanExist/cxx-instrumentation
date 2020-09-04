@@ -1,0 +1,3 @@
+/media/anh/7E183B63183B199B/STUDY/SELF/CAREERS/LABINTERN/lab/anhphancode/cxx-sample-calculator/CMakeFiles/rebuild_cache.dir
+/media/anh/7E183B63183B199B/STUDY/SELF/CAREERS/LABINTERN/lab/anhphancode/cxx-sample-calculator/CMakeFiles/edit_cache.dir
+/media/anh/7E183B63183B199B/STUDY/SELF/CAREERS/LABINTERN/lab/anhphancode/cxx-sample-calculator/CMakeFiles/cxx_sample_calculator.dir
