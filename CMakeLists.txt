@@ -16,6 +16,11 @@ SET(CMAKE_CXX_FLAGS  "${CMAKE_CXX_FLAGS} -rdynamic")
 
 set(CMAKE_CXX_STANDARD 14)
 
+if (WIN32)
+    find_package(dlfcn-win32 REQUIRED)
+    set(CMAKE_DL_LIBS dlfcn-win32::dl)
+endif ()
+
 include_directories(.)
 
 add_executable(cxx_sample_calculator
