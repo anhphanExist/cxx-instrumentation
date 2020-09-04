@@ -33,3 +33,8 @@
 
 cmake-build-debug
 .idea
+CMakeFiles
+cmake_install.cmake
+Makefile
+CMakeCache.txt
+cxx_sample_calculator
